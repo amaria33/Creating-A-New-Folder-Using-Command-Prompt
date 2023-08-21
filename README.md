@@ -25,7 +25,7 @@ Step 2: Navigate to the Desired Location. Use the "cd" command to navigate to th
 For example, to navigate to the Desktop, you would type: <br/>
  <a href="https://drive.google.com/uc?export=view&id=111MuNzh7JxLfNUOvWxtE-JqeDyYWVnWz">
     <img src="https://drive.google.com/uc?export=view&id=111MuNzh7JxLfNUOvWxtE-JqeDyYWVnWz"
-    style="width: 700px; max-width: 100%; height: auto"
+    style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." />
 </a>
 <br />
