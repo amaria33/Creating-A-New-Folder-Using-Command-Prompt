@@ -1,7 +1,7 @@
 <h1>Creating A New Folder Using Command Prompt</h1>
 
 <h2>Description</h2>
-As an entry-level help desk technician, a basic task you might need to know is creating a new folder for another user by using command prompt. Here's a step-by-step guide to assist you:
+As an entry level help desk technician, a basic task you might need to know is creating a new folder for another user by using command prompt. Here's a step-by-step guide to assist you:
 <br />
 
 <h2>Languages and Utilities Used</h2>
@@ -12,7 +12,7 @@ As an entry-level help desk technician, a basic task you might need to know is c
 
 <h2>Environments Used</h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> 
 
 <h2>Program walk-through:</h2>
 
@@ -23,15 +23,16 @@ Type "cmd" and press Enter. This will open the Command Prompt.
 
 Step 2: Navigate to the Desired Location. Use the "cd" command to navigate to the directory where you want to create the new folder. 
 For example, to navigate to the Desktop, you would type: <br/>
+
  <a href="https://drive.google.com/uc?export=view&id=111MuNzh7JxLfNUOvWxtE-JqeDyYWVnWz">
     <img src="https://drive.google.com/uc?export=view&id=111MuNzh7JxLfNUOvWxtE-JqeDyYWVnWz"
     style="width: 900px; max-width: 100%; height: auto"
-    title="Click for the larger version." />
-</a>
+    title="Click for the larger version." /></a>
 <br />
 <br />
 Step 3: Create the New Folder
 In the Command Prompt window, type the following command and press Enter:  <br/>
+
 <a href="https://drive.google.com/uc?export=view&id=1D2lQi1nkVXyhkTbJgrMVgOWqvvIK7BsX">
     <img src="https://drive.google.com/uc?export=view&id=1D2lQi1nkVXyhkTbJgrMVgOWqvvIK7BsX"
     style="width: 900px; max-width: 100%; height: auto"
@@ -40,6 +41,7 @@ In the Command Prompt window, type the following command and press Enter:  <br/>
 <br />
 Step 4: Verify the New Folder
 You can use the "dir" command to verify that the new folder has been created: <br/>
+
 <a href="https://drive.google.com/uc?export=view&id=1rhkmVvAVnXYm9uY8hG4-G1EFScQqcVdf">
     <img src="https://drive.google.com/uc?export=view&id=1rhkmVvAVnXYm9uY8hG4-G1EFScQqcVdf"
     style="width: 900px; max-width: 100%; height: auto"
@@ -48,13 +50,14 @@ You can use the "dir" command to verify that the new folder has been created: <b
 <br />
 Step 5: Close Command Prompt
 You can close the Command Prompt window once you've verified the creation of the new folder.  <br/>
+
 <a href="https://drive.google.com/uc?export=view&id=1rm0X6MJbOMJwbmjGNoG6_TuBOe34XhwL">
     <img src="https://drive.google.com/uc?export=view&id=1rm0X6MJbOMJwbmjGNoG6_TuBOe34XhwL"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /> </a>
 <br />
 <br />
-Creating a new folder using the Command Prompt is a straightforward process and can be useful when you need to quickly organize your files without needing to use the file explorer.
+Creating a new folder using the Command Prompt is a straight forward process and can be useful when you need to quickly organize your files without needing to use the file explorer.
 <br/>
 
 
