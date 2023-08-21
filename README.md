@@ -48,8 +48,8 @@ You can use the "dir" command to verify that the new folder has been created: <b
 <br />
 Step 5: Close Command Prompt
 You can close the Command Prompt window once you've verified the creation of the new folder.  <br/>
-<a href="https://drive.google.com/uc?export=view&id=11rm0X6MJbOMJwbmjGNoG6_TuBOe34Xhw">
-    <img src="https://drive.google.com/uc?export=view&id=1rm0X6MJbOMJwbmjGNoG6_TuBOe34Xhw"
+<a href="https://drive.google.com/uc?export=view&id=1rm0X6MJbOMJwbmjGNoG6_TuBOe34XhwL">
+    <img src="https://drive.google.com/uc?export=view&id=1rm0X6MJbOMJwbmjGNoG6_TuBOe34XhwL"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." />
 <br />
