@@ -17,7 +17,7 @@ As an entry-level help desk technician, a basic task you might need to know is c
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Step 1: Open Command Prompt
+ Step 1: Open Command Prompt
 Press the Windows + R keys on the keyboard to open the "Run" dialog.
 Type "cmd" and press Enter. This will open the Command Prompt.
 
