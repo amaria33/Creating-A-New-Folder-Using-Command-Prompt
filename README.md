@@ -23,7 +23,7 @@ Type "cmd" and press Enter. This will open the Command Prompt.
 
 Step 2: Navigate to the Desired Location. Use the "cd" command to navigate to the directory where you want to create the new folder. 
 For example, to navigate to the Desktop, you would type: <br/>
-<<a href="https://drive.google.com/file/d/111MuNzh7JxLfNUOvWxtE-JqeDyYWVnWz/view"/>
+<a href="https://drive.google.com/file/d/111MuNzh7JxLfNUOvWxtE-JqeDyYWVnWz/view"/>
 <br />
 <br />
 Step 3: Create the New Folder
