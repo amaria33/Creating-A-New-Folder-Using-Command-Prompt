@@ -18,9 +18,9 @@ As an entry-level help desk technician, a basic task you might need to know is c
 
 <p align="right">
 Step 1: Open Command Prompt
-Press the Windows + R keys on the keyboard to open the "Run" dialog.
-Type "cmd" and press Enter. 
-This will open the Command Prompt.
+ Press the Windows + R keys on the keyboard to open the "Run" dialog.
+ Type "cmd" and press Enter. 
+ This will open the Command Prompt.
 
 Step 2: Navigate to the Desired Location. Use the "cd" command to navigate to the directory where you want to create the new folder. 
 For example, to navigate to the Desktop, you would type: <br/>
