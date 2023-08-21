@@ -33,7 +33,7 @@ In the Command Prompt window, type the following command and press Enter:  <br/>
 <br />
 Step 4: Verify the New Folder
 You can use the "dir" command to verify that the new folder has been created: <br/>
-<img src=https://drive.google.com/file/d/1rhkmVvAVnXYm9uY8hG4-G1EFScQqcVdf/view?usp=drive_link"/>
+<img src="https://drive.google.com/file/d/1rhkmVvAVnXYm9uY8hG4-G1EFScQqcVdf/view?usp=drive_link"/>
 <br />
 <br />
 Step 5: Close Command Prompt
