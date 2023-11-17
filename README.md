@@ -24,8 +24,8 @@ Type "cmd" and press Enter. This will open the Command Prompt.
 Step 2: Navigate to the Desired Location. Use the "cd" command to navigate to the directory where you want to create the new folder. 
 For example, to navigate to the Desktop, you would type: <br/>
 
- <a href="https://drive.google.com/uc?export=view&id=1D2lQi1nkVXyhkTbJgrMVgOWqvvIK7BsX">
-   <img src="https://drive.google.com/uc?export=view&id=1D2lQi1nkVXyhkTbJgrMVgOWqvvIK7BsX"
+ <a href="https://drive.google.com/uc?export=view&id=111MuNzh7JxLfNUOvWxtE-JqeDyYWVnWz">
+    <img src="https://drive.google.com/uc?export=view&id=111MuNzh7JxLfNUOvWxtE-JqeDyYWVnWz"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /></a>
 <br />
@@ -33,8 +33,8 @@ For example, to navigate to the Desktop, you would type: <br/>
 Step 3: Create the New Folder
 In the Command Prompt window, type the following command and press Enter:  <br/>
 
-<a href="https://drive.google.com/uc?export=view&id=14KnYc_O5_1YK37pUmaZFXbVyGN9WYrXP">
-    <img src="https://drive.google.com/uc?export=view&id=14KnYc_O5_1YK37pUmaZFXbVyGN9WYrXP"
+<a href="https://drive.google.com/uc?export=view&id=1D2lQi1nkVXyhkTbJgrMVgOWqvvIK7BsX">
+    <img src="https://drive.google.com/uc?export=view&id=1D2lQi1nkVXyhkTbJgrMVgOWqvvIK7BsX"
     style="width: 900px; max-width: 100%; height: auto"
     title="Click for the larger version." /> </a>
 <br />
@@ -70,4 +70,3 @@ Creating a new folder using the Command Prompt is a straight forward process and
 @@ text in purple (and bold)@@
 ```
 --!>
-
